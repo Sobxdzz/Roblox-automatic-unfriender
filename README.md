@@ -81,34 +81,12 @@ You can minimize the panel with the **–** button in the header. Click the smal
 
 ---
 
-## Changelog (recent)
-
-**v5.0**
-- Improved Unfriended History (better display names + Profile button)
-- Stronger avatar fallbacks
-- Cleaner handling when on non-Friends tabs
-
-**v4.9**
-- Fixed missing – button on the first friend card
-- Made the minimized button draggable
-- Better messages on Following / Followers / Requests
-
-**v4.8**
-- Only shows on the real Friends tab
-- Added minimize / expand
-- Improved name & avatar extraction
-
----
-
 ## Disclaimer
 
 This is an unofficial third-party tool.  
 It is **not** affiliated with, endorsed by, or connected to Roblox Corporation in any way.
 
-Use responsibly.
-
 ---
-
 
 Overview by grok :)
 ## License
